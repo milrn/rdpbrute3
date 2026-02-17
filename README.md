@@ -7,7 +7,7 @@
 To get latest version from GitHub:
 
 ```
-# git clone https://github.com/mi-lrn/rdpbrute3
+# git clone https://github.com/milrn/rdpbrute3
 # cd rdpbrute3/
 # sudo python3 install.py
 ```
